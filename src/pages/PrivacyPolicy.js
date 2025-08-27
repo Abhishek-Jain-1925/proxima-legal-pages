@@ -10,7 +10,7 @@ const PrivacyPolicy = () => (
       <div className="bg-white p-8 rounded-xl shadow-lg">
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">1. Introduction</h2>
         <p className="text-gray-600 mb-6">
-          Proxima Investment Management Limited, operating as BanorCapital ("we," "our," or "us") operates banorcapital.com and uses Meta's Business API to provide secure authentication services via WhatsApp. This Privacy Policy explains how we collect, use, and protect your personal information.
+          Banor Capital Limited("we," "our," or "us") operates banorcapital.com and uses Meta's Business API to provide secure authentication services via WhatsApp. This Privacy Policy explains how we collect, use, and protect your personal information.
         </p>
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">2. Information We Collect</h2>
@@ -84,9 +84,9 @@ const PrivacyPolicy = () => (
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">7. Contact Information</h2>
         <div className="bg-gray-50 p-6 rounded-lg">
-          <p className="text-gray-800 font-medium mb-2">Proxima Investment Management Limited (operating as BanorCapital)</p>
+          <p className="text-gray-800 font-medium mb-2">Banor Capital Limited</p>
           <p className="text-gray-600">Email: wst06@banorcapital.com</p>
-          <p className="text-gray-600">Website: banorcapital.com</p>
+          <p className="text-gray-600">Official Website: banorcapital.com</p>
         </div>
       </div>
     </div>

@@ -17,11 +17,10 @@ const App = () => {
             <div className="flex justify-between items-center py-4">
               <div className="flex items-center space-x-3">
                 <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-lg">P</span>
+                  <span className="text-white font-bold text-lg">B</span>
                 </div>
                 <div>
-                  <h1 className="text-xl font-bold text-gray-900">Proxima Investment</h1>
-                  <p className="text-sm text-gray-500">Operating as BanorCapital</p>
+                  <h1 className="text-xl font-bold text-gray-900">Banor Capital Limited</h1>
                 </div>
               </div>
               <nav className="hidden md:flex space-x-4">
@@ -73,12 +72,12 @@ const App = () => {
                 <h3 className="text-lg font-semibold mb-4">Contact</h3>
                 <div className="text-gray-300 space-y-2">
                   <p>Email: wst06@banorcapital.com</p>
-                  <p>Website: banorcapital.com</p>
+                  <p>Official Website: banorcapital.com</p>
                 </div>
               </div>
             </div>
             <div className="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
-              <p>&copy; 2025 Proxima Investment Management Limited (operating as BanorCapital). All rights reserved.</p>
+              <p>&copy; 2025 Banor Capital Limited. All rights reserved.</p>
             </div>
           </div>
         </footer>

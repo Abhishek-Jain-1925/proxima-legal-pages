@@ -75,9 +75,9 @@ const TermsOfService = () => (
 
         <h2 className="text-2xl font-semibold text-gray-800 mb-4">7. Contact Information</h2>
         <div className="bg-gray-50 p-6 rounded-lg">
-          <p className="text-gray-800 font-medium mb-2">Proxima Investment Management Limited (operating as BanorCapital)</p>
+          <p className="text-gray-800 font-medium mb-2">Banor Capital Limited</p>
           <p className="text-gray-600">Email: wst06@banorcapital.com</p>
-          <p className="text-gray-600">Website: banorcapital.com</p>
+          <p className="text-gray-600">Official Website: banorcapital.com</p>
         </div>
       </div>
     </div>

@@ -5,9 +5,8 @@ const HomePage = () => (
   <div className="max-w-4xl mx-auto text-center">
     <div className="bg-gradient-to-br from-blue-600 to-purple-700 text-white p-12 rounded-2xl shadow-xl mb-8">
       <h1 className="text-4xl font-bold mb-4">
-        Proxima Investment Management Limited
+        Banor Capital Limited
       </h1>
-      <p className="text-xl opacity-90 mb-6">Operating as BanorCapital</p>
       <div className="bg-white/20 backdrop-blur-sm rounded-lg p-6 max-w-2xl mx-auto">
         <p className="text-lg">
           Professional investment management services with secure WhatsApp authentication
