@@ -9,7 +9,8 @@ const HomePage = () => (
       </h1>
       <div className="bg-white/20 backdrop-blur-sm rounded-lg p-6 max-w-2xl mx-auto">
         <p className="text-lg">
-          Professional investment management services with secure WhatsApp authentication
+          Professional investment management services and digital platforms,
+          including <strong>Clopad Technologies</strong>, with secure WhatsApp authentication
         </p>
       </div>
     </div>
@@ -19,14 +20,16 @@ const HomePage = () => (
         <Shield className="text-blue-600 mb-4 mx-auto" size={48} />
         <h3 className="text-xl font-semibold mb-3 text-gray-800">Secure Authentication</h3>
         <p className="text-gray-600">
-          We use Meta's WhatsApp Business API to provide secure OTP-based login for your account safety.
+          We use Meta's WhatsApp Business API to provide secure OTP-based login
+          across Banor Capital and Clopad platforms.
         </p>
       </div>
       <div className="bg-white p-6 rounded-xl shadow-lg border border-gray-100">
         <FileText className="text-green-600 mb-4 mx-auto" size={48} />
         <h3 className="text-xl font-semibold mb-3 text-gray-800">Transparent Policies</h3>
         <p className="text-gray-600">
-          Clear privacy and terms policies that explain exactly how we handle your data and protect your privacy.
+          Clear privacy and terms policies explaining how data is handled
+          across Banor Capital and Clopad services.
         </p>
       </div>
     </div>
@@ -34,8 +37,9 @@ const HomePage = () => (
     <div className="bg-gray-50 p-8 rounded-xl">
       <h2 className="text-2xl font-semibold mb-4 text-gray-800">Legal Information</h2>
       <p className="text-gray-600 mb-6">
-        Please review our privacy policy and terms of service to understand how we protect your data
-        and the terms governing our services.
+        Please review our Privacy Policy and Terms of Service to understand
+        how we protect your data and govern our services,
+        including Clopad Technologies.
       </p>
       <div className="flex flex-wrap justify-center gap-4">
         <a
