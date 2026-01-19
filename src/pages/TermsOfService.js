@@ -4,7 +4,7 @@ const TermsOfService = () => (
   <div className="max-w-4xl mx-auto prose prose-lg">
     <div className="bg-purple-50 border-l-4 border-purple-600 p-6 mb-8 rounded-r-lg">
       <h1 className="text-3xl font-bold text-purple-900 mb-2 mt-0">Terms of Service</h1>
-      <p className="text-purple-700 mb-0">Last Updated: July 2025</p>
+      <p className="text-purple-700 mb-0">Last Updated: Jan 2026</p>
     </div>
 
     <div className="bg-white p-8 rounded-xl shadow-lg">
